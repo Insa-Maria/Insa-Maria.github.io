@@ -17,3 +17,11 @@ body, html {
   padding: 16px;
 }
 
+.w3-justify a, p>a{
+  color: #258DAD;
+}
+
+.w3-justify a:hover, p>a:hover{
+  color: #ffc107;
+}
+
